@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alice",
+    "age": 20,
+    "subjects": ["Math", "Science", "English"]
+  },
+  {
+    "name": "Bob",
+    "age": 27,
+    "subjects": ["History", "Economics"]
+  },
+  {
+    "name": "Charlie",
+    "age": 19,
+    "subjects": ["Physics", "Chemistry", "Biology"]
+  }
+]
